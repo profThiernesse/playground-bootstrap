@@ -4,3 +4,8 @@ plan:
   statement: rappel.md
 - title: Tutoriel
   statement: tutoriel.md
+- title: Exerice 1
+  statement: ex1.md
+- title: Exerice 2
+  statement: ex2.md
+  
