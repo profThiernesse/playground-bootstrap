@@ -1,4 +1,6 @@
-title: Simple PHP Template
+title: Bootstrap
 plan:
-- title: PHP Snippet
-  statement: statement.md
+- title: Rappel
+  statement: rappel.md
+- title: Tutoriel
+  statement: tutoriel.md
