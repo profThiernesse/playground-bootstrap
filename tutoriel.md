@@ -3,7 +3,7 @@
 Pour débuter les prises en main de Bootstrap vous suivrez le tutoriel proposé par W3Scool. Tout les points du tutoriel ne sont pas nécessaire, certain font référence aux Javascript qui ne sont pas vu en première année. La liste ci-dessous renvoie aux différents points du tutoriel les points en **gras** sont critiques pour la compréhension, ceux en *italiques* sont facultatifs et les autres faciliteront votre compréhension pour la suite du travail.
 
 - [BS4 HOME](https://www.w3schools.com/bootstrap4/default.asp)
-- [BS4 Get Started](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp)
+- [**BS4 Get Started**](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp)
 - [**BS4 Grid Basic**](https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp)
 - [BS4 Typography](https://www.w3schools.com/bootstrap4/bootstrap_typography.asp)
 - [BS4 Colors](https://www.w3schools.com/bootstrap4/bootstrap_colors.asp)
