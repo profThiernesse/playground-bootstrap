@@ -51,4 +51,4 @@ Pour débuter les prises en main de Bootstrap vous suivrez le tutoriel proposé 
 
 ## Outils
 
-Une fois les bases de Bootstrap maîtrisées vous pouvez utiliser l'outil [layouit](https://www.layoutit.com/build) pour vous aider à construire l'ossature de base de votre site.
+Une fois les bases de Bootstrap maîtrisées vous pouvez utiliser l'outil [layoutit](https://www.layoutit.com/build) pour vous aider à construire l'ossature de base de votre site.
