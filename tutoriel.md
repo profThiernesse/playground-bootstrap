@@ -37,3 +37,7 @@ Pour débuter les prises en main de Bootstrap vous suivrez le tutoriel proposé 
 - [*BS4 Flex*](https://www.w3schools.com/bootstrap4/bootstrap_flex.asp)
 - [*BS4 Media Objects*](https://www.w3schools.com/bootstrap4/bootstrap_media_objects.asp)
 - [*BS4 Filters*](https://www.w3schools.com/bootstrap4/bootstrap_filters.asp)
+
+## Outils
+
+Une fois les bases de Bootstrap maîtrisées vous pouvez utiliser l'outil [layouit](https://www.layoutit.com/build) pour vous aider à construire l'ossature de base de votre site.
