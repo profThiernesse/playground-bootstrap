@@ -38,6 +38,17 @@ Pour débuter les prises en main de Bootstrap vous suivrez le tutoriel proposé 
 - [*BS4 Media Objects*](https://www.w3schools.com/bootstrap4/bootstrap_media_objects.asp)
 - [*BS4 Filters*](https://www.w3schools.com/bootstrap4/bootstrap_filters.asp)
 
+## La grille Bootstrap
+
+- [BS4 Grid System](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
+- [BS4 Stacked/Horizontal](https://www.w3schools.com/bootstrap4/bootstrap_grid_stacked_to_horizontal.asp)
+- [BS4 Grid XSmall](https://www.w3schools.com/bootstrap4/bootstrap_grid_xsmall.asp)
+- [BS4 Grid Small](https://www.w3schools.com/bootstrap4/bootstrap_grid_small.asp)
+- [BS4 Grid Medium](https://www.w3schools.com/bootstrap4/bootstrap_grid_medium.asp)
+- [BS4 Grid Large](https://www.w3schools.com/bootstrap4/bootstrap_grid_large.asp)
+- [BS4 Grid XLarge](https://www.w3schools.com/bootstrap4/bootstrap_grid_xlarge.asp)
+- [BS4 Grid Examples](https://www.w3schools.com/bootstrap4/bootstrap_grid_examples.asp)
+
 ## Outils
 
 Une fois les bases de Bootstrap maîtrisées vous pouvez utiliser l'outil [layouit](https://www.layoutit.com/build) pour vous aider à construire l'ossature de base de votre site.
