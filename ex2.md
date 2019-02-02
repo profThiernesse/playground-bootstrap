@@ -12,5 +12,8 @@ Dans un premier temps, il faut concevoir les templates statiques des pages diff�
 	- d'afficher les détails sur la donnée
 	- d'éditer la donnée
 	- de supprimer la donnée
-- Page permettant d'ajouter/modifier des données (formulaire)
+- Page permettant d'ajouter/modifier des données (formulaire). Il faut penser
+	- au formulaire vierge
+	- au formulaire avec des messages d'erreur
+	- au formulaire correctement envoyé
 - Page affichant une question du Quizz
